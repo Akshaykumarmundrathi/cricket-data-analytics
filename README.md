@@ -42,5 +42,3 @@ Use **Power BI** to load `processed_data.csv` and create insightful dashboards.
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to open an issue for suggestions.
 
----
-💡 *Happy Coding!* 🚀
